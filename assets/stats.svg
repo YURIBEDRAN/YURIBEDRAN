@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 200" width="840" height="200" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#0e7490"/><stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .fade { animation: fade .8s ease-out both; }
+    .grow { animation: grow 1s ease-out both; transform-box: fill-box; transform-origin: bottom; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: none } }
+    @keyframes grow { from { transform: scaleY(0) } to { transform: scaleY(1) } }
+  </style>
+  <rect x=".5" y=".5" width="839" height="199" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="30" y="36" fill="#e6edf3" font-size="16" font-weight="600">Yuri Bedran · GitHub activity</text>
+  <g class="fade" style="animation-delay:0.00s"><text x="30" y="78" fill="#38bdf8" font-size="28" font-weight="700">13,049</text><text x="30" y="102" fill="#8b949e" font-size="12.5">Total since 2022</text></g><g class="fade" style="animation-delay:0.15s"><text x="165" y="78" fill="#38bdf8" font-size="28" font-weight="700">11,036</text><text x="165" y="102" fill="#8b949e" font-size="12.5">In 2026</text></g><g class="fade" style="animation-delay:0.30s"><text x="300" y="78" fill="#22c55e" font-size="28" font-weight="700">6 days</text><text x="300" y="102" fill="#8b949e" font-size="12.5">Current streak</text></g><g class="fade" style="animation-delay:0.45s"><text x="435" y="78" fill="#22c55e" font-size="28" font-weight="700">19 days</text><text x="435" y="102" fill="#8b949e" font-size="12.5">Longest streak</text></g>
+  <line x1="30" y1="128" x2="560" y2="128" stroke="#30363d"/>
+  <text x="30" y="156" fill="#8b949e" font-size="12.5">Coding since</text>
+  <text x="30" y="176" fill="#e6edf3" font-size="14">2020 · on GitHub since 2022</text>
+  <text x="300" y="156" fill="#8b949e" font-size="12.5">Active days</text>
+  <text x="300" y="176" fill="#e6edf3" font-size="14">790 days since 2022</text>
+  <rect class="grow" x="597.9" y="158.0" width="28.2" height="2.0" rx="3" fill="url(#bar)" style="animation-delay:0.0s"/><text x="612.0" y="152.0" fill="#e6edf3" font-size="11" text-anchor="middle">151</text><text x="612.0" y="176.0" fill="#8b949e" font-size="11" text-anchor="middle">2022</text><rect class="grow" x="641.9" y="157.4" width="28.2" height="2.6" rx="3" fill="url(#bar)" style="animation-delay:0.1s"/><text x="656.0" y="151.4" fill="#e6edf3" font-size="11" text-anchor="middle">322</text><text x="656.0" y="176.0" fill="#8b949e" font-size="11" text-anchor="middle">2023</text><rect class="grow" x="685.9" y="155.7" width="28.2" height="4.3" rx="3" fill="url(#bar)" style="animation-delay:0.2s"/><text x="700.0" y="149.7" fill="#e6edf3" font-size="11" text-anchor="middle">523</text><text x="700.0" y="176.0" fill="#8b949e" font-size="11" text-anchor="middle">2024</text><rect class="grow" x="729.9" y="151.7" width="28.2" height="8.3" rx="3" fill="url(#bar)" style="animation-delay:0.3s"/><text x="744.0" y="145.7" fill="#e6edf3" font-size="11" text-anchor="middle">1,017</text><text x="744.0" y="176.0" fill="#8b949e" font-size="11" text-anchor="middle">2025</text><rect class="grow" x="773.9" y="70.0" width="28.2" height="90.0" rx="3" fill="url(#bar)" style="animation-delay:0.4s"/><text x="788.0" y="64.0" fill="#e6edf3" font-size="11" text-anchor="middle">11,036</text><text x="788.0" y="176.0" fill="#8b949e" font-size="11" text-anchor="middle">2026</text>
+</svg>
