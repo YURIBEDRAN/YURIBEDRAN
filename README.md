@@ -189,3 +189,5 @@ What I bring to the table is the mix. Finance isn't a domain I picked up for a p
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0e7490,100:0b1a2e&height=120&section=footer" width="100%" />
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/yuribedran-rubi-1ocn5f?v=a315b66b66911629d3e496a8e867eb6b)](https://m8ven.ai/mcp/yuribedran-rubi-1ocn5f?s=readme)
